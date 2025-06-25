@@ -40,7 +40,7 @@ CGMDeskBuddy fetches your latest Dexcom G6 readings from Nightscout, converts mg
 
 - **Arduino IDE**: https://www.arduino.cc/en/software/  
 - **ESP32 Board Definitions**: https://www.silabs.com/developer-tool…  
-- **Uptime Robot (optional)**: https://uptimerobot.com/  
+- **Uptime Robot**: https://uptimerobot.com/  
 - **Nightscout Docs**: https://nightscout.github.io/  
 - **Zukka App**: https://apps.apple.com/us/app/zukka/i…
 
